@@ -1,1 +1,2 @@
-# BILLING-SYSTEM-OF-STUDENTS
+# Student-Billing-System
+Accounting and Billing System
